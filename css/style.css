@@ -1,4 +1,4 @@
-.gbackground, html, body{
+.gbackground, html, body {
     background-image: url('../image/overlooking.jpg');
     background-size: 100%;
     background-attachment: fixed;
@@ -8,3 +8,73 @@
 .navbar-brand {
     padding-left: 10px;
 }
+
+@media (min-width: 540px) {
+    .img {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+}
+@media (min-width: 720px) {
+    .img {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 960px) {
+    .img {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1140px) {
+    .img {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+.card {
+    display: flex;
+    align-content: center;
+    height: 40rem;
+    width: 40rem;
+    text-align: center;
+}
+
+.row   {
+    display: flex;
+    justify-content: center;
+}
+.img:hover{
+    opacity: 100%;
+    border-style: solid;
+    height: 220px;
+    width: 750px;
+    border-width: 5px;
+    border-bottom-width: 10px;
+    border-color: rgba(247, 243, 243, 0.6);
+}
+.img {
+    border-style: solid;
+    border-color: white;
+    border: 10px;
+    opacity: 80%;
+    position: relative;
+    height: 200px;
+    width: 350px;
+}
+/* .nav-link:hover{
+    border-style: solid;
+    border: white;
+    color: black;
+} */
