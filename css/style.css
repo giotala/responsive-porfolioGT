@@ -3,7 +3,7 @@
     background-size: 100%;
     background-attachment: fixed;
     width: 100%;
-    height: 100%;
+    height: 120%;
 }
 .navbar-brand {
     padding-left: 10px;
@@ -78,3 +78,14 @@
     border: white;
     color: black;
 } */
+h3 {
+    color: white;
+}
+.fb, .linkedIn {
+    height: 30px;
+    width: 30px;
+}
+.aboutme{ 
+    font-size: 20px;
+   
+}
