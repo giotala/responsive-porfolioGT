@@ -55,7 +55,7 @@
     display: flex;
     justify-content: center;
 }
-.img:hover{
+.img:hover {
     opacity: 100%;
     border-style: double;
     height: 220px;
@@ -82,7 +82,10 @@ h3 {
     width: 30px;
 }
 
-.aboutme{ 
+.aboutme { 
     font-size: 20px;
 }
 
+.nav-link:hover {
+    font-size: 18px;
+}
