@@ -16,6 +16,7 @@ alsooo added my github link
 also added my email and linkedIn along with the phone number and address On the Contact Page
 My Biography in my portfolio page
 *********end**********
+License MIT 
 
 
 
