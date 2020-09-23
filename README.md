@@ -15,7 +15,12 @@ All Photo/Links have hover effects
 alsooo added my github link
 also added my email and linkedIn along with the phone number and address On the Contact Page
 My Biography in my portfolio page
-*********end**********
+
+
+## MY info
+  * [Resume](image\GioResume.pdf)
+  * [github](https://github.com/giotala)
+  * [Resume](https://www.linkedin.com/in/gio-talabong-79086b103/)
 License MIT 
 
 
